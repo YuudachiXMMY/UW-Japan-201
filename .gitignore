@@ -1,0 +1,8 @@
+# Compressed
+*.gz
+*.7z
+*.DS_Store
+
+GENKI*
+GENKI An Integrated Course in Elementary Japanese Vol.2 [Third Edition].pdf
+*.mp4
